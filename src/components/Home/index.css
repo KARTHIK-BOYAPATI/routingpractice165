@@ -1,0 +1,11 @@
+.aboutLogo {
+  height: 150px;
+  width: 150px;
+}
+
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
